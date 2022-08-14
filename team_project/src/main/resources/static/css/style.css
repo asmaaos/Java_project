@@ -1,0 +1,124 @@
+
+.searchclass{
+    margin-top: 15px;
+    display: flex;
+    vertical-align: center;
+}
+
+.cont {
+background-color: brown;
+}
+.table{
+    width: 600px;
+    margin-left: 100px;
+
+}
+.emp{
+    width: 400px;
+    margin-left: 40px;
+    margin-right: 80px;
+   
+}
+.btn {
+    background-color: rgb(255, 255, 255); 
+    color: black; 
+    border: 2px solid #247C72;
+    
+  }
+.btn:hover{
+    background-color: #67c7bced;
+    color: white;
+    border-color: #15574f69;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+.main .table{
+    margin-top: 20px;
+}
+h1 {
+    margin-left: 100px;
+    margin-top: 40px;
+    color: #438b84;
+}
+h3{
+	  margin-top: 40px;
+    color: #438b84;
+}
+.container-fluid{
+    background-color: #438b84;
+   
+}
+.table thead{
+    color: rgb(81, 81, 81);
+}
+.table{
+    font-weight: 400;
+}
+
+.bton{
+    margin-left: 100px;
+    width: 600px;
+  
+
+}
+.btn-primary2
+{
+    width: 400px;
+     margin-top:10px;
+}
+.mb-3{
+    width: 400px;
+    margin-left: 100px;
+}
+.sub {
+    margin-left: 100px;
+    width: 400px;
+}
+.mb-4{
+    width: 400px;
+
+
+}
+.list-group{
+	margin-top:30px;
+}
+a{
+	color:#4c4c4c;
+}
+h2{
+	color:#FFFFFF;
+	margin-right:400px;
+	
+}
+.em{
+	margin-right:90px;
+}
+.btn-success1{
+	color:red;
+}
+
+.btn-success1:hover{
+    background-color: red;
+    color: white;
+    border-color: #15574f69;
+}
+.btn-success{
+	color:green;
+}
+
+.btn-success:hover{
+    background-color: green;
+    color: white;
+    border-color: #15574f69;
+}
+hr{
+	width:500px;
+	margin-left:100px;
+
+}
+
+
+
+
